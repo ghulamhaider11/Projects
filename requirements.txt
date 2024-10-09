@@ -6,5 +6,3 @@ plotly
 scikit-learn
 numpy
 ydata-profiling
-streamlit-pandas-profiling
-Cython
