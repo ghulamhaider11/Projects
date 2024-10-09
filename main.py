@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
 from io import BytesIO
-from pydantic import BaseSettings
-from pydantic_settings import BaseSettings
+from ydata_profiling import ProfileReport
 
 from data_operations import data_operations,train_model
 from visualization import visualization

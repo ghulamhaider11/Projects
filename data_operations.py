@@ -8,14 +8,12 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler
 import numpy as np
 import io
 from sklearn.preprocessing import LabelEncoder
-import pandas_profiling
 from ydata_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
-from pydantic import BaseSettings
-from pydantic_settings import BaseSettings
+
 
 
 
