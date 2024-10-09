@@ -3,8 +3,9 @@ pandas
 seaborn
 matplotlib
 plotly
-scikit-learn
+scikit-learn==1.2.0
 numpy
 pandas-profiling
 ydata-profiling
 streamlit-pandas-profiling
+Cython
